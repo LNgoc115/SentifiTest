@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.sentifi.test.quandl.unittest.QuandlProcessorTest" duration-ms="4826" started-at="2017-02-08T22:30:48Z" finished-at="2017-02-08T22:30:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4826" started-at="2017-02-08T22:30:48Z" finished-at="2017-02-08T22:30:52Z">
+      <class name="com.sentifi.test.quandl.unittest.QuandlProcessorTest">
+        <test-method status="PASS" signature="initDataTest()[pri:0, instance:com.sentifi.test.quandl.unittest.QuandlProcessorTest@6bf256fa]" name="initDataTest" is-config="true" duration-ms="4764" started-at="2017-02-09T05:30:48Z" finished-at="2017-02-09T05:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDataTest -->
+        <test-method status="PASS" signature="testForTask1()[pri:0, instance:com.sentifi.test.quandl.unittest.QuandlProcessorTest@6bf256fa]" name="testForTask1" duration-ms="32" started-at="2017-02-09T05:30:52Z" finished-at="2017-02-09T05:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForTask1 -->
+        <test-method status="PASS" signature="testForTask2()[pri:0, instance:com.sentifi.test.quandl.unittest.QuandlProcessorTest@6bf256fa]" name="testForTask2" duration-ms="9" started-at="2017-02-09T05:30:52Z" finished-at="2017-02-09T05:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForTask2 -->
+        <test-method status="PASS" signature="testForTask3()[pri:0, instance:com.sentifi.test.quandl.unittest.QuandlProcessorTest@6bf256fa]" name="testForTask3" duration-ms="6" started-at="2017-02-09T05:30:52Z" finished-at="2017-02-09T05:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForTask3 -->
+        <test-method status="PASS" signature="testForTask4()[pri:0, instance:com.sentifi.test.quandl.unittest.QuandlProcessorTest@6bf256fa]" name="testForTask4" duration-ms="1" started-at="2017-02-09T05:30:52Z" finished-at="2017-02-09T05:30:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForTask4 -->
+      </class> <!-- com.sentifi.test.quandl.unittest.QuandlProcessorTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.sentifi.test.quandl.unittest.QuandlProcessorTest -->
+</testng-results>

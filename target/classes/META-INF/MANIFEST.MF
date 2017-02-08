@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Built-By: ngocl
+Class-Path: ../lib/javax.ws.rs-api-2.1-m01.jar ../lib/opencsv-3.8.jar 
+ ../lib/commons-lang3-3.4.jar ../lib/commons-beanutils-1.9.2.jar ../li
+ b/commons-logging-1.1.1.jar ../lib/commons-collections-3.2.1.jar ../l
+ ib/jackson-datatype-json-org-2.8.6.jar ../lib/jackson-core-2.8.6.jar 
+ ../lib/jackson-databind-2.8.6.jar ../lib/jackson-annotations-2.8.0.ja
+ r ../lib/json-20090211_1.jar ../lib/log4j-1.2.17.jar ../lib/jaxrs-ri-
+ 2.25.jar ../lib/jersey-common-2.25.jar ../lib/javax.annotation-api-1.
+ 2.jar ../lib/hk2-api-2.5.0-b30.jar ../lib/hk2-utils-2.5.0-b30.jar ../
+ lib/aopalliance-repackaged-2.5.0-b30.jar ../lib/javax.inject-2.5.0-b3
+ 0.jar ../lib/hk2-locator-2.5.0-b30.jar ../lib/javassist-3.20.0-GA.jar
+  ../lib/osgi-resource-locator-1.0.1.jar ../lib/jersey-media-jaxb-2.25
+ .jar ../lib/jersey-client-2.25.jar ../lib/jersey-server-2.25.jar ../l
+ ib/validation-api-1.1.0.Final.jar ../lib/jersey-container-servlet-cor
+ e-2.25.jar ../lib/jersey-container-servlet-2.25.jar ../lib/jersey-gua
+ va-2.6.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: com.sentifi.test.quandl.main.App
+
